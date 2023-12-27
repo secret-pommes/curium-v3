@@ -1,0 +1,153 @@
+{
+  "lang": {
+    "//": "German",
+    "de": {
+      "stw": {
+        "title": "Koop-PvE",
+        "body": "PVE-Modus, in dem du den Sturm kooperativ bekämpfst!"
+      },
+      "br": {
+        "title": "100-Spieler-PvP",
+        "body": "Battle Royale, 100-Spieler-PvP.\n\nFortschritte im PvE haben keinen Einfluss auf Battle Royale."
+      },
+      "creative": {
+        "title": "Neue vorgestellte Inseln!",
+        "body": "Deine Insel. Deine Freunde. Deine Regeln. \n\nEntdecke neue Arten, Fortnite zu spielen. Zocke von der Community erstellte Spiele mit Freunden und erschaffe deine Trauminsel."
+      }
+    },
+    "//": "English",
+    "en": {
+      "stw": {
+        "title": "Co-op PvE",
+        "body": "Cooperative PvE storm-fighting adventure!"
+      },
+      "br": {
+        "title": "100 Player PvP",
+        "body": "100 Player PvP Battle Royale.\n\nPvE progress does not affect Battle Royale."
+      },
+      "creative": {
+        "title": "New Featured Islands!",
+        "body": "Your Island. Your Friends. Your Rules.\n\nDiscover new ways to play Fortnite, play community made games with friends and build your dream island."
+      }
+    },
+    "//": "Russian",
+    "ru": {
+      "stw": {
+        "title": "Сюжетная PvE-кампания",
+        "body": "Совместное сражение с Бурей!"
+      },
+      "br": {
+        "title": "PvP-режим на 100 игроков",
+        "body": "PvP-режим на 100 игроков «Королевская битва».\n\nПрогресс в кампании не затрагивает «Королевскую битву»."
+      },
+      "creative": {
+        "title": "Новые рекомендованные острова!",
+        "body": "Ваш остров. Ваши друзья. Ваши правила. \n\nПробуйте новые развлечения в Fortnite: играйте с друзьями в игры, созданные участниками сообщества, и стройте что угодно на собственном острове."
+      }
+    },
+    "//": "Korean",
+    "ko": {
+      "stw": {
+        "title": "팀과 함께 플레이하는 PvE",
+        "body": "배틀로얄을 플레이하려면 상단의 \"배틀로얄\" 버튼을 클릭하세요.\n\n팀과 함께하는 PvE 모드, 폭풍과 싸우는 어드벤처!"
+      },
+      "br": {
+        "title": "100명의 플레이어와 함께하는 PvP",
+        "body": "100명의 플레이어와 함께하는 PvP 모드, 배틀로얄.\n\nPvE 모드의 진행 상황은 배틀로얄 플레이에 영향을 주지 않습니다."
+      },
+      "creative": {
+        "title": "새로운 추천 섬!",
+        "body": "내가 만든 게임, 내가 세운 규칙, 이제 나만의 섬에서 즐긴다! \n포트나이트 게임을 완전히 새로운 방식으로 플레이해 보세요. 커뮤니티가 만든 게임을 친구들과 플레이해 보고, 여러분의 꿈의 섬을 만들어보세요."
+      }
+    },
+    "//": "Italian",
+    "it": {
+      "stw": {
+        "title": "PvE co-op",
+        "body": "Avventura tempestosa cooperativa PvE!"
+      },
+      "br": {
+        "title": "PvP a 100 giocatori",
+        "body": "Battaglia reale PvP a 100 giocatori.\n\nI progressi in PvE non sono trasferiti nella Battaglia reale."
+      },
+      "creative": {
+        "title": "Nuove isole in evidenza!",
+        "body": "La tua isola. I tuoi amici. Le tue regole. \n\nScopri nuovi modi per giocare a Fortnite, divertiti insieme ai tuoi amici con i giochi creati dalla community e costruisci la tua isola da sogno."
+      }
+    }
+  },
+  "seasons": {
+    "season_4": {
+      "battle_pass": {
+        "imgs": { "left": "", "right": "", "middle": "" },
+        "playlists": { "solos": "", "duos": "", "trios": "", "sqauds": "" }
+      }
+    },
+    "season_5": {
+      "battle_pass": {
+        "imgs": { "left": "", "right": "", "middle": "" },
+        "playlists": { "solos": "", "duos": "", "trios": "", "sqauds": "" }
+      }
+    },
+    "season_6": {
+      "battle_pass": {
+        "imgs": { "left": "", "right": "", "middle": "" },
+        "playlists": { "solos": "", "duos": "", "trios": "", "sqauds": "" }
+      }
+    },
+    "season_7": {
+      "battle_pass": {
+        "imgs": { "left": "", "right": "", "middle": "" },
+        "playlists": { "solos": "", "duos": "", "trios": "", "sqauds": "" }
+      }
+    },
+    "season_8": {
+      "battle_pass": {
+        "imgs": { "left": "", "right": "", "middle": "" },
+        "playlists": { "solos": "", "duos": "", "trios": "", "sqauds": "" }
+      }
+    },
+    "season_9": {
+      "battle_pass": {
+        "imgs": { "left": "", "right": "", "middle": "" },
+        "playlists": { "solos": "", "duos": "", "trios": "", "sqauds": "" }
+      }
+    },
+    "season_10": {
+      "battle_pass": {
+        "imgs": { "left": "", "right": "", "middle": "" },
+        "playlists": { "solos": "", "duos": "", "trios": "", "sqauds": "" }
+      }
+    },
+    "season_11": {
+      "battle_pass": {
+        "imgs": { "left": "", "right": "", "middle": "" },
+        "playlists": { "solos": "", "duos": "", "trios": "", "sqauds": "" }
+      }
+    },
+    "season_12": {
+      "battle_pass": {
+        "imgs": { "left": "", "right": "", "middle": "" },
+        "playlists": { "solos": "", "duos": "", "trios": "", "sqauds": "" }
+      }
+    },
+    "season_13": {
+      "battle_pass": {
+        "imgs": { "left": "", "right": "", "middle": "" },
+        "playlists": { "solos": "", "duos": "", "trios": "", "sqauds": "" }
+      }
+    },
+    "season_14": {
+      "battle_pass": {
+        "imgs": { "left": "", "right": "", "middle": "" },
+        "playlists": { "solos": "", "duos": "", "trios": "", "sqauds": "" }
+      }
+    },
+    "season_15": {
+      "battle_pass": {
+        "imgs": { "left": "", "right": "", "middle": "" },
+        "playlists": { "solos": "", "duos": "", "trios": "", "sqauds": "" }
+      }
+    }
+  }
+}

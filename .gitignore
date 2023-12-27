@@ -1,0 +1,14 @@
+# Framework
+node_modules
+
+# Config file with tokens and ids
+config/server_config.json
+resources/shop.json
+
+# Visual Studio
+.vs
+*.obj
+nginx/logs/access.log
+nginx/logs/error.log
+nginx/logs/access.log
+*.Sav

@@ -1,0 +1,15 @@
+{
+  "success": "Successfully connected!\nWelcome to the offical SwitchMP Tinfoil-Server where you can simply download and install our hosted build\n\n\nDiscord: https://dsc.gg/switchfnmodding",
+  "files": [
+    {
+      "//": "Fortnite Base (v0) [Extern]",
+      "url": "https://switch-builds.ezfn.dev/NSPs/Base.nsp",
+      "size": 5792315
+    },
+    {
+      "//": "Fortnite Season 7 (v7.20.1) [Extern]",
+      "url": "https://switch-builds.ezfn.dev/NSPs/7.20.1.nsp",
+      "size": 4383959718
+    }
+  ]
+}

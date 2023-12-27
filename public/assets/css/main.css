@@ -1,0 +1,72 @@
+* {
+  font-family: "Open Sans", sans-serif;
+  font-family: "Tektur", cursive;
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: #afe1ed;
+}
+
+a,
+p,
+h1,
+h2,
+h3 {
+  color: rgb(0, 0, 0);
+}
+
+.background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("/assets/img/backgroundS7.jpg");
+  background-size: cover;
+  filter: blur(7px);
+  z-index: -1;
+}
+
+.foot {
+  text-align: center;
+  padding: 20px;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+}
+
+.main {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  top: 40%;
+  transform: translate(-50%, -50%);
+}
+
+.center_p {
+  font-size: 20px;
+  position: relative;
+  top: -5px;
+}
+
+.white_a {
+  color: white;
+}
+
+.important {
+  color: rgb(155, 0, 0);
+  font-size: 20px;
+}
+
+.container {
+  background-color: rgba(61, 68, 71, 0.7);
+  padding: 20px;
+  border-radius: 20px;
+  margin: 0 auto;
+}
+
+.informations {
+  font-size: 20px;
+}
